@@ -58,85 +58,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Brain
+//  action 1: the brain thinks
+brain.think();
+//  action 2: the brain analyzes
+brain.analyze();
+//  action 3: the brain learns
+brain.learn();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Finger
+//  action 1: the finger points
+finger.point();
+//  action 2: the finger scratches
+finger.scratch();
+//  action 3: the finger touches
+finger.touch();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Leg
+//  action 1: the leg kicks
+leg.kick();
+//  action 2: the leg stomps
+leg.stomp();
+//  action 3: the leg walks
+leg.walk();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Elephant
+//  action 1: the elephant sits
+elephant.sit();
+//  action 2: the elephant bathes
+elephant.bathe();
+//  action 3: the elephant runs
+elephant.run();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Speaker
+//  action 1: the speaker plays music
+speaker.playMusic();
+//  action 2: the speaker distorts
+speaker.distort();
+//  action 3: the speaker fails
+speaker.fail();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Computer
+//  action 1: the computer calculates
+computer.calculate();
+//  action 2: the computer controls other devices
+computer.control();
+//  action 3: the computer accesses the internet
+computer.accessInternet();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: DAW
+//  action 1: the DAW records
+DAW.record();
+//  action 2: the DAW crashes
+DAW.crash();
+//  action 3: the DAW quits unexpectedly
+DAW.quitUnexpectedly();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Cell Phone
+//  action 1: the cell phone vibrates
+cellPhone.vibrate();
+//  action 2: the cell phone breaks
+cellPhone.break();
+//  action 3: the cell phone tracks location
+cellPhone.trackLocation();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Musician
+//  action 1: the musician performs
+musician.perform();
+//  action 2: the musician records
+musician.record();
+//  action 3: the musician bows
+musician.bow();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Engineer
+//  action 1: the engineer complains
+engineer.complain();
+//  action 2: the engineer corrects the musician
+engineer.correct();
+//  action 3: the engineer mixes
+engineer.mix();
 
 
 #endif
